@@ -1,5 +1,5 @@
 ![logo](https://github.com/AtawadkarAnjali/AtawadkarAnjali/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.gif)
-<h1 align="center">Heyy! Everyone.. 👋, I'm Anjali Atawadkar</h1>
+<h1 align="center">Heyy! Everyone.. 👋 </h1>
 <h3 align="center">**** A Computer Engineering Student ****</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.liveagood.life/community/wp-content/uploads/sites/2/2021/12/59311-girl-working-on-laptop-lottie-animation.gif">
