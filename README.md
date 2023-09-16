@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AtawadkarAnjali/AtawadkarAnjali/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.gif)
 <h1 align="center">Heyy! Everyone.. 👋, I'm Anjali Atawadkar</h1>
 <h3 align="center">**** A Computer Engineering Student ****</h3>
 
