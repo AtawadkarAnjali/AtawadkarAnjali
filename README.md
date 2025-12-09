@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python and PowerBI**
 
 - 💬 Ask me about **Java,MySQL,MongoDB,Oracle.**
 
