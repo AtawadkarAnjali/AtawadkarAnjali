@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliatawadkar&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliatawadkar" /> </p>
 
-- 🔭 I’m currently working on **Major Project**
+- 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Full-stack**
+- 🌱 I’m currently learning **AI/ML and Data Science**
 
-- 👯 I’m looking to collaborate on **Android Studio**
+- 👯 I’m looking to collaborate on **Machine learning**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Python**
 
 - 💬 Ask me about **Java,MySQL,MongoDB,Oracle.**
 
